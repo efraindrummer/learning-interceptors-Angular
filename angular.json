@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "interceptorApp"
+  "defaultProject": "interceptorApp",
+  "cli": {
+    "analytics": "9f36004d-95d7-4335-83b3-d7d5c1ccefc9"
+  }
 }
